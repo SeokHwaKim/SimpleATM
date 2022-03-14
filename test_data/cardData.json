@@ -1,0 +1,16 @@
+{
+    "card_name":"NarasarangCard",
+    "card_serial":"1222023",
+    "card_company":{
+                        "company_name":"ShinHanCard",
+                        "company_serial":"3"
+                    },
+    "card_bank":{
+                    "bank_name":"ShinhanBank",
+                    "bank_serial":"3"
+                },
+    "card_person":{
+                    "person_name":"SeokhwaKim",
+                    "person_serial":"01091732725"
+                    }
+}
