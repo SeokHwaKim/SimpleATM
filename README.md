@@ -1,5 +1,6 @@
-##Simple ATM##
-####Created By "Seokhwa Kim"####
+##Simple ATM
+
+####Created By "Seokhwa Kim"
 
 ###Desription
 This project shows the simple ATM program by python3
